@@ -1,0 +1,68 @@
+body{
+    background-color: #0D1A2D;
+    height: 100vh;
+    width: 100vw;
+    font-family: sans-serif;
+}
+.main{
+    height: 500px;
+    width: 400px;
+    background-color: #0D1A2D;
+    box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.3);
+    position: absolute;
+    inset: 0;
+    margin: auto; 
+    padding: 15px;
+    width: 100%;
+    max-width: 280px;
+    border-radius: 10px;
+}
+img{
+   width: 100%;
+    border-radius: 10px;    
+}
+h2{
+    color: white;
+    margin-top: 10px;
+
+}
+p{
+
+    font-family:'Lucida Sans' ;
+    color: #879EBC;
+}
+.ethereum{
+    color: aqua;
+    font-size: 20px;
+    display: inline;
+    margin-right: 50px;
+    
+}
+.svg1{
+    font-size: large;
+    margin-right: 5px;
+}
+.clock{
+    display: inline;
+    color: aqua;
+    font-size: 20px;
+
+}
+.svg2{
+    margin-right: 5px;
+}
+
+hr{
+    color: #879EBC;
+}
+.image2{
+    margin-top: 5px;
+    height: 30px;
+    width: 30px;
+    display: inline;
+}
+div{
+    display: inline;
+    margin-top: 0;
+    color: #879EBC;
+}
